@@ -1,4 +1,4 @@
-console.log(12);
+console.log(6);
 
-console.log(8);
+console.log(3);
 
